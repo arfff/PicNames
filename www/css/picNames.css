@@ -1,0 +1,61 @@
+/* This is a CSS file */
+
+/*#container {
+    display: flex;
+    justify-content: space-around;
+}*/
+
+#todo-list a {
+    /*font-size: 110%;*/
+}
+
+#buttonsList li{
+    padding: 5px 0 5px 0;
+}
+
+#pictList li {    
+    /*display:block;*/
+    /*margin:0 auto;*/
+    text-align:center;
+}
+
+/*#container.img {
+    display: flex;
+    justify-content: space-around;
+}*/
+
+#picItem img{   
+    max-height: 50%;
+    max-width: 90%;
+    object-fit: contain;
+}    
+    
+/*#picItem img.shadow {
+    border: 1px solid #fff;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 100);
+}*/
+
+#pictList{
+    padding: 0;
+    list-style-type: none;
+}
+
+/*#loadSpinner {
+    display: block;
+    margin: auto;
+    margin-top: 40%;
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    border: 8px solid #28dddd;
+    border-color: #ccc;
+    border-right-color: transparent;
+    -webkit-animation: spin 0.45s infinite linear;
+    z-index: 999;
+}
+
+@-webkit-keyframes spin {
+    0%   { -webkit-transform: rotate(0deg); opacity: 1; }
+    50%  { -webkit-transform: rotate(180deg); opacity: 0.1; }
+    100% { -webkit-transform: rotate(360deg); opacity: 1; }
+}*/

@@ -1,0 +1,114 @@
+[
+  {
+    "label": "chat",
+    "path": "images/chat.jpg"
+  },
+  {
+    "label": "lapin",
+    "path": "images/lapin.jpg"
+  },
+  {
+    "label": "loup",
+    "path": "images/loup.jpg"
+  },
+  {
+    "label": "éléphant",
+    "path": "images/elephant.jpg"
+  },
+  {
+    "label": "écureuil",
+    "path": "images/ecureuil.jpg"
+  },
+  {
+    "label": "girafe",
+    "path": "images/girafe.jpg"
+  },
+  {
+    "label": "lion",
+    "path": "images/lion.jpg"
+  },
+  {
+    "label": "ours",
+    "path": "images/ours.jpg"
+  },
+  {
+    "label": "perroquet",
+    "path": "images/perroquet.jpg"
+  },
+  {
+    "label": "pieuvre",
+    "path": "images/pieuvre.jpg"
+  },
+  {
+    "label": "pingouin",
+    "path": "images/pingouin.jpg"
+  },
+  {
+    "label": "poisson rouge",
+    "path": "images/poisson.jpg"
+  },
+  {
+    "label": "requin",
+    "path": "images/requin.jpg"
+  },
+  {
+    "label": "souris",
+    "path": "images/souris.jpg"
+  },
+  {
+    "label": "tigre",
+    "path": "images/tigre.jpg"
+  },
+  {
+    "label": "pigeon",
+    "path": "images/pigeon.jpg"
+  },
+  {
+    "label": "cochon",
+    "path": "images/cochon.jpeg"
+  },
+  {
+    "label": "crocodile",
+    "path": "images/crocodile.jpg"
+  },
+  {
+    "label": "koala",
+    "path": "images/koala.jpg"
+  },
+  {
+    "label": "kangourou",
+    "path": "images/kangourou.jpg"
+  },
+  {
+    "label": "panda",
+    "path": "images/panda.jpg"
+  },
+  {
+    "label": "chien",
+    "path": "images/chien.jpg"
+  },
+  {
+    "label": "sauterelle",
+    "path": "images/sauterelle.jpg"
+  },
+  {
+    "label": "coccinelle",
+    "path": "images/coccinelle.jpg"
+  },
+  {
+    "label": "fourmi",
+    "path": "images/fourmi.jpg"
+  },
+  {
+    "label": "mouche",
+    "path": "images/mouche.jpg"
+  },
+  {
+    "label": "hippopotame",
+    "path": "images/hippo.jpg"
+  },
+  {
+    "label": "tortue",
+    "path": "images/tortue.jpg"
+  }
+]
